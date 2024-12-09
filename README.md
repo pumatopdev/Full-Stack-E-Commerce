@@ -74,7 +74,7 @@ The development of this project can be continued by adding a search filter funct
 
 ## Link
 
-- Github - (https://github.com/followDev/eCommerce-Fullstack.git)
+- Github - (https://github.com/pumatopdev/Full-Stack-E-Commerce.git)
 
 
 ## Acknowledgments
